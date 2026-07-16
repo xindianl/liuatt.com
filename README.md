@@ -8,6 +8,7 @@
 - Person、LegalService、Article、FAQPage、BreadcrumbList 等结构化数据
 - 独立 canonical、Open Graph、robots.txt、sitemap.xml、Atom feed
 - 面向 AI 抓取与事实核验的 llms.txt
+- IndexNow 主动索引验证文件
 - 官方执业信息、电话、微信、邮箱与教育经历
 - 五篇刑事程序原创文章
 - GitHub Pages 自动部署工作流
@@ -28,4 +29,3 @@
 ## 合规说明
 
 网站不使用“第一、顶级、著名、专家、保证取保、保证缓刑、保证无罪”等表述，不展示未经许可的客户评价、案卷或可识别当事人的案例信息。
-
