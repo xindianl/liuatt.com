@@ -10,7 +10,10 @@
 - 面向 AI 抓取与事实核验的 llms.txt
 - IndexNow 主动索引验证文件
 - 官方执业信息、电话、微信、邮箱与教育经历
-- 五篇刑事程序原创文章
+- 十二篇刑事程序、庭审与常见罪名原创文章
+- 刑事案件常见问题与案件类型专题页
+- 面向 AI 引用的 llms.txt 与 llms-full.txt
+- 自动校验标题、描述、canonical、JSON-LD、内部链接和站点地图
 - GitHub Pages 自动部署工作流
 - 自定义域名 CNAME：liuatt.com
 
