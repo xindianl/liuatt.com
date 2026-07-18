@@ -271,6 +271,11 @@ p { margin: 0 0 1em; }
   font-weight: 800;
 }
 .card-link { font-weight: 750; }
+.card-title-link {
+  color: var(--navy);
+  text-decoration: none;
+}
+.card-title-link:hover { color: var(--bronze-dark); text-decoration: underline; }
 
 .service-list {
   display: grid;
@@ -400,6 +405,42 @@ p { margin: 0 0 1em; }
 .article-group-head h2 { margin-bottom: 10px; font-size: 32px; }
 .article-group-head p { color: var(--muted); }
 
+.latest-group {
+  padding: 30px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+}
+.latest-articles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.latest-article {
+  padding: 18px 20px;
+  border-left: 3px solid var(--bronze);
+  background: var(--paper);
+}
+.latest-article a {
+  display: block;
+  color: var(--navy);
+  font-family: Georgia, "Songti SC", "STSong", serif;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.45;
+  text-decoration: none;
+}
+.latest-article a:hover { color: var(--bronze-dark); text-decoration: underline; }
+.latest-article span {
+  display: block;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .answer-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -451,7 +492,7 @@ p { margin: 0 0 1em; }
   .hero { padding-top: 52px; }
   .hero-grid { gap: 42px; }
   .section { padding: 60px 0; }
-  .cards, .service-list, .trust-grid, .contact-cards, .footer-grid, .answer-list, .fact-grid { grid-template-columns: 1fr; }
+  .cards, .service-list, .trust-grid, .contact-cards, .footer-grid, .answer-list, .fact-grid, .latest-articles { grid-template-columns: 1fr; }
   .trust-item { border-right: 0; border-bottom: 1px solid var(--line); }
   .trust-item:last-child { border-bottom: 0; }
   .contact-grid .button-row { margin-top: 0; }
