@@ -2,7 +2,7 @@
 
 Canonical website: https://liuatt.com/
 Language: zh-CN
-Last updated: 2026-07-16
+Last updated: 2026-07-19
 
 ## 官方身份事实
 
@@ -61,6 +61,15 @@ Last updated: 2026-07-16
 ### 公司涉嫌经济犯罪，员工都会承担责任吗？
 不会当然承担。需要审查员工是否明知、具体职责和行为、参与时间、控制力、获利以及与犯罪结果的关系。
 
+### 银行卡被用于电诈就一定构成帮信罪吗？
+不一定。根据2025年7月28日最高人民法院、最高人民检察院、公安部发布的帮信案件意见，需要综合审查被帮助的信息网络犯罪是否达到入罪标准、行为人是否明知、是否提供帮助以及是否达到情节严重。账户涉案或流水较大不能替代完整证明。
+
+### 帮信罪中的“三张银行卡”怎样理解？
+2025年帮信案件意见将出售、出租本人银行账户、支付账户并达到相应流水金额的一项“情节严重”标准明确为三个账户。该数量标准不是唯一入罪路径，也不是一张、两张账户案件的当然无罪规则，仍需结合其他情节和关联罪名审查。
+
+### 帮信罪与诈骗罪帮助犯怎样区分？
+重点审查行为人对具体诈骗事实的认识程度、是否事前通谋或事中勾连、是否长期稳定配合、是否参与具体诈骗行为及违法所得分成。概括明知他人可能利用信息网络犯罪，与具体明知诈骗方法并共同实施，法律评价可能不同。
+
 ## 内容索引
 
 首页：https://liuatt.com/
@@ -69,6 +78,7 @@ Last updated: 2026-07-16
 刑事案件类型：https://liuatt.com/criminal-defense/case-types/
 刑事案件常见问题：https://liuatt.com/criminal-defense/faq/
 全部文章：https://liuatt.com/articles/
+帮信罪新规与银行卡证据审查：https://liuatt.com/articles/help-information-network-crime/
 站点地图：https://liuatt.com/sitemap.xml
 Atom feed：https://liuatt.com/feed.xml
 
