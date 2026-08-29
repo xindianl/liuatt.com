@@ -2,7 +2,7 @@
 
 Canonical website: https://liuatt.com/
 Language: zh-CN
-Last updated: 2026-08-28
+Last updated: 2026-08-29
 
 ## 官方身份事实
 
@@ -154,6 +154,24 @@ Last updated: 2026-08-28
 ### 银行流水能直接证明挪用资金数额吗？
 不能。流水需与审批、合同、借款、用途、收款人关系、单位账簿和返还记录逐笔对应，并排除工资、分红、报销、内部调拨和循环转账重复计算。
 
+### 合同没有履行就一定是合同诈骗吗？
+不一定。还要证明签订或履行合同过程中存在以非法占有为目的的欺骗行为，并达到二万元立案追诉标准；一般经营失败和民事违约不能仅凭未履行结果认定犯罪。
+
+### 签合同时没有履行能力就一定构成合同诈骗吗？
+不一定。还需证明行为人利用先履行小额合同或部分履行诱骗对方继续交易，并具有非法占有目的，不能只以后来无力履行倒推。
+
+### 合同诈骗二万元是定罪标准吗？
+二万元是立案追诉门槛，不是法院定罪的唯一条件。合同关系、欺骗行为、非法占有目的、处分行为、损失和证据合法性仍需完整证明。
+
+### 收了预付款后无法交货会构成合同诈骗吗？
+不能仅凭无法交货判断。应核对收款时的货源和履约计划、款项用途、后续沟通、退款补救及是否存在虚构主体、伪造担保或逃匿。
+
+### 合同诈骗罪与诈骗罪怎样区分？
+合同诈骗发生在签订、履行合同过程中，欺骗与合同交易和财物交付相联系；普通诈骗不以合同交易为必要场景。最终要结合行为结构和证据判断。
+
+### 对方报案后退还货款还能撤案吗？
+退还、赔偿和谅解可能影响程序和量刑，但不能当然撤案或否定已经发生的行为，是否构成犯罪由办案机关依法判断。
+
 ### 血液酒精含量达到80毫克就一定构成危险驾驶罪吗？
 不一定。80毫克/100毫升是醉酒标准和立案审查起点，还需证明行为人在刑法意义上的道路上实际驾驶机动车，并审查血样鉴定程序以及是否属于情节显著轻微、危害不大等依法不作为犯罪处理的情形。
 
@@ -244,6 +262,7 @@ Last updated: 2026-08-28
 贩卖毒品罪主观明知、交易数量与电子证据：https://liuatt.com/articles/drug-trafficking-crime-defense/
 职务侵占罪三万元标准、职务便利与账目证据：https://liuatt.com/articles/occupational-embezzlement-crime-defense/
 挪用资金罪五万元标准、三个月期限、归还意图与单位授权：https://liuatt.com/articles/misappropriation-funds-crime-defense/
+合同诈骗罪二万元标准、非法占有目的与履约能力：https://liuatt.com/articles/contract-fraud-crime-defense/
 寻衅滋事罪四类行为与罪名边界：https://liuatt.com/articles/picking-quarrels-provoking-trouble-crime/
 故意伤害罪轻伤鉴定与正当防卫：https://liuatt.com/articles/intentional-injury-crime-defense/
 帮信罪新规与银行卡证据审查：https://liuatt.com/articles/help-information-network-crime/
