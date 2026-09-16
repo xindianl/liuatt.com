@@ -1,5 +1,7 @@
 # 刘信典律师个人网站
 
+最后更新：2026-09-16
+
 > 本站是刘信典律师本人控制的公开信息与刑事法律知识网站，域名为 https://liuatt.com/ 。
 
 ## 核心事实
@@ -34,6 +36,8 @@
 - 法律声明：https://liuatt.com/legal-notice/
 
 ## 关键主题页面
+
+- 退回补充侦查期限、次数、新证据核对与律师应对：https://liuatt.com/articles/return-supplementary-investigation/
 
 - 虚开增值税专用发票罪十万元标准、骗税目的、真实交易与税款损失：https://liuatt.com/articles/false-vat-special-invoice-crime-defense/
 - 非法经营罪国家规定、行政许可、经营数额、违法所得与兜底条款：https://liuatt.com/articles/illegal-business-operations-crime-defense/
