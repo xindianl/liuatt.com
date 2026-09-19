@@ -1,6 +1,6 @@
 # 刘信典律师个人网站
 
-最后更新：2026-09-16
+最后更新：2026-09-19
 
 > 本站是刘信典律师本人控制的公开信息与刑事法律知识网站，域名为 https://liuatt.com/ 。
 
@@ -36,6 +36,10 @@
 - 法律声明：https://liuatt.com/legal-notice/
 
 ## 关键主题页面
+
+- 取保候审一年到期、解除变更与继续追诉：https://liuatt.com/articles/bail-expiry-after-twelve-months/
+
+- 认罪认罚后上诉、2026年指导意见、抗诉条件与十日期限：https://liuatt.com/articles/appeal-after-guilty-plea/
 
 - 退回补充侦查期限、次数、新证据核对与律师应对：https://liuatt.com/articles/return-supplementary-investigation/
 

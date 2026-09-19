@@ -45,6 +45,9 @@ for (const file of pages) {
   if (!description) errors.push(`${rel}: missing meta description`);
   if (!canonical) errors.push(`${rel}: missing canonical`);
   if (!h1) errors.push(`${rel}: missing h1`);
+  if (html.includes('data-menu-button') && !html.includes('data-nav-links')) {
+    errors.push(`${rel}: mobile menu has no navigation target`);
+  }
   if (title) {
     if (titles.has(title)) errors.push(`${rel}: duplicate title with ${titles.get(title)}`);
     titles.set(title, rel);
@@ -56,7 +59,17 @@ for (const file of pages) {
   }
 
   for (const match of html.matchAll(/<script\s+type="application\/ld\+json">([\s\S]*?)<\/script>/gi)) {
-    try { JSON.parse(match[1]); }
+    try {
+      const data = JSON.parse(match[1]);
+      for (const node of data['@graph'] ?? [data]) {
+        if (node['@type'] !== 'ItemList') continue;
+        const items = node.itemListElement ?? [];
+        if (node.numberOfItems !== items.length) errors.push(`${rel}: ItemList count mismatch`);
+        if (items.some((item, index) => item.position !== index + 1)) {
+          errors.push(`${rel}: ItemList positions must be consecutive from 1`);
+        }
+      }
+    }
     catch (error) { errors.push(`${rel}: invalid JSON-LD (${error.message})`); }
   }
 
